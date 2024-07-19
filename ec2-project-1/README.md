@@ -1,6 +1,3 @@
-Here’s a polished and detailed `README.md` file that will guide beginners through their first Ansible project. It is designed to be friendly, clear, and informative.
-
-```markdown
 # Welcome to the Ansible Projects Repository!
 
 ## Dive into Automation with Ansible
@@ -174,4 +171,3 @@ Join our growing community of automation enthusiasts! Share your progress, ask q
 Ready to automate? Let's get your hands dirty with Ansible!
 ```
 
-This README.md file provides clear, step-by-step instructions that beginners can easily follow. It also encourages community engagement and further learning, making it an excellent starting point for anyone new to Ansible.
